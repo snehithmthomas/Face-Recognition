@@ -1,0 +1,7 @@
+gradio==3.50.2
+insightface==0.7.3
+onnxruntime
+opencv-python-headless
+numpy
+scikit-learn
+Pillow
